@@ -1,2 +1,2 @@
-# PAF lab1
+# PAF
 Practice session for creating GitHub account
